@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "cold-prep",
+    "slug": "cold-prep",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "cold-prep"
+}
